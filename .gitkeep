@@ -1,0 +1,3 @@
+touch models/.gitkeep
+touch data/imagenes_dron/.gitkeep
+touch outputs/detecciones/.gitkeep
