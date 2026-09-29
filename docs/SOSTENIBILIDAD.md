@@ -95,21 +95,3 @@ tienen un costo energético no despreciable. Se adoptan prácticas de
 | Anotador de datos       | Etiquetado de bounding boxes para re-entrenamiento          |
 | Coordinación CITE       | Gestión de convenios, presupuesto y articulación sectorial  |
 
----
-
-## 6. Próximos Pasos
-
-1. Establecer convenio con **OSINFOR** para acceso a imágenes de dron anotadas.
-2. Definir **especies objetivo prioritarias** para el CITEforestal Maynas.
-3. Entrenar **primer modelo piloto** con datos reales.
-4. Desplegar versión de producción con **monitoreo energético** activo.
-5. Programar **primera capacitación interna** para personal técnico.
-
----
-
-## 7. Referencias
-
-- Green AI — Schwartz et al., 2020
-- CodeCarbon — https://github.com/mlco2/codecarbon
-- OSINFOR / Proyecto ARBOR
-- LibreYOLO — https://github.com/LibreYOLO/libreyolo
